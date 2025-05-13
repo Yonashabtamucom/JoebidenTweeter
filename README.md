@@ -21,4 +21,4 @@ This project performs sentiment analysis on political social media posts related
 This project is licensed under the MIT License. See `LICENSE` file for details.
 
 ✍️ Author
-Yonash Habtamu
+Yonas Habtamu
